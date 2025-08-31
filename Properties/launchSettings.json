@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PersonalExpenseTracker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
